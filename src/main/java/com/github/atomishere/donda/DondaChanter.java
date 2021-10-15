@@ -1,3 +1,5 @@
+package com.github.atomishere.donda;
+
 import de.umass.lastfm.Authenticator;
 import de.umass.lastfm.Caller;
 import de.umass.lastfm.Session;
